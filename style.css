@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    color: gray;
+    padding: 5px 5%;
+}
+table {
+    width: 100%;
+}
+.t1 {
+    text-align: left;
+}
+.t2 {
+    text-align: right;
+}
+span {
+    color: red;
+}
+#entry {
+    margin-left: 50px;
+    width: 100px;
+}
+#signin, #reset {
+    width: 100px;
+    margin-top: 5px;
+}
+input {
+    width: 200px;
+    margin-bottom: 5px;
+}
+#remember {
+    width: 10px;
+}
